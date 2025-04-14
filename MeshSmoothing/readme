@@ -1,0 +1,3 @@
+运行命令：
+
+python MeshSmoothing.py --method=... --stepsize=... --iteration=... --mode=... --cell=...
