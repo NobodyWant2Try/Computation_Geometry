@@ -1,0 +1,5 @@
+object 1 running time: 1164.2711164951324s
+object 2 running time: 1162.5822005271912s
+object 3 running time: 1166.2876331806183s
+object 4 running time: 1162.8016335964203s
+object 5 running time: 1162.999487400055s
